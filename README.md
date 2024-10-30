@@ -51,4 +51,4 @@ For questions or feedback, please reach out to:
 Email: anushkapkadam@gmail.com
 
 ## Dataset Link
-You can access the dataset in this repository [here](./path/to/your/dataset.csv).
+You can access the dataset in this repository [here](Titanic-Dataset.csv).
