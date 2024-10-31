@@ -1,4 +1,4 @@
-# PRODIGY_DS_02
+# DataScience Intership Task 2
 
 ## Introduction
 This repository contains the code and analysis for Task 2 of my Data Science internship at Prodigy Info Tech. This task focuses on data cleaning and exploratory data analysis (EDA) using the Titanic dataset, chosen for its relevance in demonstrating key data analysis techniques.
